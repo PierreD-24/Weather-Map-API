@@ -1,0 +1,17 @@
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\bin\Debug\net8.0\WeatherMapAPI.exe
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\bin\Debug\net8.0\WeatherMapAPI.deps.json
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\bin\Debug\net8.0\WeatherMapAPI.runtimeconfig.json
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\bin\Debug\net8.0\WeatherMapAPI.dll
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\bin\Debug\net8.0\WeatherMapAPI.pdb
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\obj\Debug\net8.0\WeatherMapAPI.csproj.AssemblyReference.cache
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\obj\Debug\net8.0\WeatherMapAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\obj\Debug\net8.0\WeatherMapAPI.AssemblyInfoInputs.cache
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\obj\Debug\net8.0\WeatherMapAPI.AssemblyInfo.cs
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\obj\Debug\net8.0\WeatherMapAPI.csproj.CoreCompileInputs.cache
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\obj\Debug\net8.0\WeatherM.6B7D99AC.Up2Date
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\obj\Debug\net8.0\WeatherMapAPI.dll
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\obj\Debug\net8.0\refint\WeatherMapAPI.dll
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\obj\Debug\net8.0\WeatherMapAPI.pdb
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\obj\Debug\net8.0\WeatherMapAPI.genruntimeconfig.cache
+C:\Users\pdahr\Desktop\repos\API-Weather-Map\WeatherMapAPI\obj\Debug\net8.0\ref\WeatherMapAPI.dll
