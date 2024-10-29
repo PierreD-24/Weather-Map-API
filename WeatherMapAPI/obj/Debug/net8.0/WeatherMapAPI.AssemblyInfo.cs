@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeatherMapAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64ccea9565c94e1584955f22ce77ef451d1d810f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeatherMapAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeatherMapAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
